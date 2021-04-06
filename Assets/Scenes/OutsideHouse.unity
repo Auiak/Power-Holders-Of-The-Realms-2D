@@ -252,7 +252,7 @@ TilemapCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.07, y: 0}
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0.00001
 --- !u!483693784 &697802329
@@ -1297,8 +1297,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.05159092, y: -0.15167415}
-  m_Size: {x: 0.6294079, y: 0.829985}
+  m_Offset: {x: 0.05159092, y: -0.018213749}
+  m_Size: {x: 0.55314445, y: 1.0969057}
   m_Direction: 0
 --- !u!50 &762604966
 Rigidbody2D:
@@ -1430,6 +1430,7 @@ GameObject:
   - component: {fileID: 792713859}
   - component: {fileID: 792713858}
   - component: {fileID: 792713857}
+  - component: {fileID: 792713860}
   m_Layer: 0
   m_Name: Tilemap Door
   m_TagString: Untagged
@@ -1461,7 +1462,7 @@ TilemapCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -1663,6 +1664,18 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!114 &792713860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 792713855}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55127d1865e114ba3a7022d9b3fae46d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &915355679
 GameObject:
   m_ObjectHideFlags: 0

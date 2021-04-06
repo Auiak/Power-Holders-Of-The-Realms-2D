@@ -5,8 +5,15 @@ using UnityEngine.SceneManagement;
 
 public class Door : MonoBehaviour
 {
-    void OnCollosionEnter2D(Collision2D collision)
+    void OnTriggerEnter2D(Collider2D collision)
     {
-	SceneManager.LoadScene(1);
+	if(SceneManager.GetActiveScene().buildIndex == 0)
+	{
+	    SceneManager.LoadScene(1);
+	}
+	else
+	{
+	    SceneManager.LoadScene(0);
+	}
     }
 }
