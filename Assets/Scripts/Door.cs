@@ -7,6 +7,9 @@ public class Door : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D collision)
     {
+	Debug.Log(SceneManager.GetActiveScene().buildIndex == 0);
+	Debug.Log(SceneManager.GetActiveScene().buildIndex);
+
 	if(SceneManager.GetActiveScene().buildIndex == 0)
 	{
 	    SceneManager.LoadScene(1);
@@ -14,6 +17,7 @@ public class Door : MonoBehaviour
 	else
 	{
 	    SceneManager.LoadScene(0);
+	    Debug.Log("Door");
 	}
     }
 }

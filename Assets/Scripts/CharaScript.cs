@@ -10,13 +10,14 @@ public class CharaScript : MonoBehaviour
     public float speed = 0.1f;
 
     public Animator animator;
-
     Vector2 move;
+    public int score;
 
     // Start is called before the first frame update
     void Start()
     {
         body = GetComponent<Rigidbody2D>();
+	score = 0;
     }
 
     // Update is called once per frame
