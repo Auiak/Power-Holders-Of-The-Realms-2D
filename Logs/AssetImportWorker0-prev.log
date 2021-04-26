@@ -12,574 +12,164 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-54804
+55218
 Successfully changed project path to: /Users/athena/Documents/GitHub/Power Holders Of The Realms 2D
 /Users/athena/Documents/GitHub/Power Holders Of The Realms 2D
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 66.16 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 65.51 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.4f1 (becced5a802b)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path /Users/athena/Documents/GitHub/Power Holders Of The Realms 2D/Assets
 GfxDevice: creating device client; threaded=0
-2021-04-12 17:23:12.567 Unity[64616:1342387] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 640 (low power)
-2021-04-12 17:23:12.567 Unity[64616:1342387] Metal devices available: 1
-2021-04-12 17:23:12.567 Unity[64616:1342387] 0: Intel(R) Iris(TM) Plus Graphics 640 (low power)
-2021-04-12 17:23:12.568 Unity[64616:1342387] Using device Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-04-18 17:08:29.589 Unity[53778:260800] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-04-18 17:08:29.589 Unity[53778:260800] Metal devices available: 1
+2021-04-18 17:08:29.589 Unity[53778:260800] 0: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-04-18 17:08:29.590 Unity[53778:260800] Using device Intel(R) Iris(TM) Plus Graphics 640 (low power)
 Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 640
 Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56616
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56778
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.001979 seconds.
+Registered in 0.000634 seconds.
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 68.05 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 69.23 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.036 seconds
+- Completed reload, in  1.836 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001635 seconds.
+Registered in 0.000861 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 58.47 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 89.33 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.279 seconds
+- Completed reload, in  1.582 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launching external process: /Applications/Unity/Hub/Editor/2020.2.4f1/Unity.app/Contents/Tools/UnityShaderCompiler
 Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 143.3 MB.
-System memory in use after: 143.3 MB.
-
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2242.
-Total: 2.605024 ms (FindLiveObjects: 0.322164 ms CreateObjectMapping: 0.119553 ms MarkObjects: 2.015792 ms  DeleteObjects: 0.145463 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005382 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.197 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1795 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 143.3 MB.
-System memory in use after: 143.3 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2245.
-Total: 3.175899 ms (FindLiveObjects: 0.389183 ms CreateObjectMapping: 0.138227 ms MarkObjects: 2.527116 ms  DeleteObjects: 0.119763 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Scripts/Collectable.cs
-  artifactKey: Guid(161c898323a9a414eb7e9e0acd3bdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Collectable.cs using Guid(161c898323a9a414eb7e9e0acd3bdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ab7dd5dad29152063a4a584b6760413') in 0.557874 seconds
-  Import took 0.565003 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 36.534841 seconds.
-  path: Assets/Scripts/Coin.cs
-  artifactKey: Guid(caff49f7dccba40538a875b6f75cd909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Coin.cs using Guid(caff49f7dccba40538a875b6f75cd909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77d4640d87b7f7baefd6b544ee382f32') in 0.003081 seconds
-  Import took 0.006840 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 26.915657 seconds.
-  path: Assets/Scripts/Collectable.cs
-  artifactKey: Guid(161c898323a9a414eb7e9e0acd3bdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Collectable.cs using Guid(161c898323a9a414eb7e9e0acd3bdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ec51b136145aad085372d98263996f5') in 0.001947 seconds
-  Import took 0.006501 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.423837 seconds.
-  path: Assets/Scripts/Silver.cs
-  artifactKey: Guid(161c898323a9a414eb7e9e0acd3bdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Silver.cs using Guid(161c898323a9a414eb7e9e0acd3bdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1526b476ef14824927436477f63dfe54') in 0.002256 seconds
-  Import took 0.007489 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001121 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.35 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.870 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 148.2 MB.
-System memory in use after: 148.2 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2249.
-Total: 4.700729 ms (FindLiveObjects: 0.629165 ms CreateObjectMapping: 0.385427 ms MarkObjects: 3.505411 ms  DeleteObjects: 0.178240 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 68.260462 seconds.
-  path: Assets/Scripts/Coin.cs
-  artifactKey: Guid(caff49f7dccba40538a875b6f75cd909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Coin.cs using Guid(caff49f7dccba40538a875b6f75cd909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '195fb186afa92e1fd64b05f5b742a0b1') in 0.011546 seconds
-  Import took 0.018447 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 74.310191 seconds.
-  path: Assets/Scripts/Gold.cs
-  artifactKey: Guid(1f975617e9f8e4db48c9394f1de537bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Gold.cs using Guid(1f975617e9f8e4db48c9394f1de537bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aa0818cd81206649ba4cd09af22eca6') in 0.003497 seconds
-  Import took 0.007863 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.032768 seconds.
-  path: Assets/Scripts/Gold.cs
-  artifactKey: Guid(1f975617e9f8e4db48c9394f1de537bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Gold.cs using Guid(1f975617e9f8e4db48c9394f1de537bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aa0818cd81206649ba4cd09af22eca6') in 0.005083 seconds
-  Import took 0.009118 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001276 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.224 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 148.4 MB.
-System memory in use after: 148.4 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2253.
-Total: 2.362050 ms (FindLiveObjects: 0.452198 ms CreateObjectMapping: 0.151228 ms MarkObjects: 1.647578 ms  DeleteObjects: 0.109272 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001075 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.485 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 148.6 MB.
-System memory in use after: 148.6 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2256.
-Total: 3.305874 ms (FindLiveObjects: 0.357666 ms CreateObjectMapping: 0.118819 ms MarkObjects: 2.689396 ms  DeleteObjects: 0.138382 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 33.544582 seconds.
-  path: Assets/Scripts/Gold.cs
-  artifactKey: Guid(1f975617e9f8e4db48c9394f1de537bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Gold.cs using Guid(1f975617e9f8e4db48c9394f1de537bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e8404d7eceddbdbe8621dc79f900df') in 0.004149 seconds
-  Import took 0.009299 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000832 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.04 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.367 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 148.8 MB.
-System memory in use after: 148.8 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2259.
-Total: 3.972211 ms (FindLiveObjects: 1.046773 ms CreateObjectMapping: 0.149762 ms MarkObjects: 2.550459 ms  DeleteObjects: 0.223123 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000871 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.260 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1797 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 149.0 MB.
-System memory in use after: 149.0 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2262.
-Total: 2.499025 ms (FindLiveObjects: 0.239593 ms CreateObjectMapping: 0.084669 ms MarkObjects: 2.069969 ms  DeleteObjects: 0.103152 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 43.217385 seconds.
-  path: Assets/Scripts/Diamond.cs
-  artifactKey: Guid(f2cf0a6efc62447c8888b3051b2a7758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Diamond.cs using Guid(f2cf0a6efc62447c8888b3051b2a7758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67ce6de03e6e06ce4cfa6aa0da1fb43f') in 0.006801 seconds
-  Import took 0.011503 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.050252 seconds.
-  path: Assets/Scripts/Diamond.cs
-  artifactKey: Guid(f2cf0a6efc62447c8888b3051b2a7758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Diamond.cs using Guid(f2cf0a6efc62447c8888b3051b2a7758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67ce6de03e6e06ce4cfa6aa0da1fb43f') in 0.001744 seconds
-  Import took 0.006680 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000978 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.635 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1798 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1853 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 149.2 MB.
 System memory in use after: 149.2 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2266.
-Total: 1.978616 ms (FindLiveObjects: 0.215937 ms CreateObjectMapping: 0.062356 ms MarkObjects: 1.596424 ms  DeleteObjects: 0.102604 ms)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2296.
+Total: 4.264167 ms (FindLiveObjects: 0.285023 ms CreateObjectMapping: 0.070250 ms MarkObjects: 3.770807 ms  DeleteObjects: 0.136993 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 23.033994 seconds.
-  path: Assets/Scripts/Diamond.cs
-  artifactKey: Guid(f2cf0a6efc62447c8888b3051b2a7758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Diamond.cs using Guid(f2cf0a6efc62447c8888b3051b2a7758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa0c2e4f3094dfacc8019b62100f85e7') in 0.007464 seconds
-  Import took 0.014034 seconds .
+  path: Assets/Scenes/OutsideHouse.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/OutsideHouse.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd445fccf4dadac812453bf73364bc0e6') in 0.019875 seconds
+  Import took 0.026565 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.9 MB.
+System memory in use after: 111.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2296.
+Total: 4.980865 ms (FindLiveObjects: 0.713154 ms CreateObjectMapping: 0.186773 ms MarkObjects: 3.933496 ms  DeleteObjects: 0.145926 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000901 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.08 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.683 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.96 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1835 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 148.2 MB.
+System memory in use after: 148.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2299.
+Total: 2.478853 ms (FindLiveObjects: 0.227309 ms CreateObjectMapping: 0.066267 ms MarkObjects: 2.057016 ms  DeleteObjects: 0.125756 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 228.187525 seconds.
-  path: Assets/Prefabs/Diamond.prefab
-  artifactKey: Guid(5e9593e557fa24ca3ad76b808b723007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Diamond.prefab using Guid(5e9593e557fa24ca3ad76b808b723007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ae17f01d91b0529db3b78740188a367') in 0.561486 seconds
-  Import took 0.569562 seconds .
+  Time since last request: 131.491119 seconds.
+  path: Assets/Scripts/Door.cs
+  artifactKey: Guid(55127d1865e114ba3a7022d9b3fae46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Door.cs using Guid(55127d1865e114ba3a7022d9b3fae46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f6cf42e064003a0b5d3f8424b7a8e36') in 0.343983 seconds
+  Import took 0.351494 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/Prefabs/Silver.prefab
-  artifactKey: Guid(b71bdc95e4afd402faba66cc1d660e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Silver.prefab using Guid(b71bdc95e4afd402faba66cc1d660e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3379692060c37bd66d7c543a1c3ffdb2') in 0.010655 seconds
-  Import took 0.017425 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000471 seconds.
-  path: Assets/Prefabs/Gold.prefab
-  artifactKey: Guid(b92c0b3d66b994fde9617255b22458c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Gold.prefab using Guid(b92c0b3d66b994fde9617255b22458c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20358e9102d43edb099f716ef19a06b6') in 0.022798 seconds
-  Import took 0.029348 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.185571 seconds.
+  Time since last request: 15.179573 seconds.
   path: Assets/Scenes/InsideHouse.unity
   artifactKey: Guid(74f60d669d2ad46c4af0963e8a209ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/InsideHouse.unity using Guid(74f60d669d2ad46c4af0963e8a209ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a14710cd291f32a9b9452dd1ad1f6f9') in 0.001714 seconds
-  Import took 0.006465 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 29.393765 seconds.
-  path: Assets/Prefabs/Diamond.prefab
-  artifactKey: Guid(5e9593e557fa24ca3ad76b808b723007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Diamond.prefab using Guid(5e9593e557fa24ca3ad76b808b723007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55c2bbbaa2b6ebc1a54683bb2a73e62a') in 0.014427 seconds
-  Import took 0.021701 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.396391 seconds.
-  path: Assets/Prefabs/Diamond.prefab
-  artifactKey: Guid(5e9593e557fa24ca3ad76b808b723007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Diamond.prefab using Guid(5e9593e557fa24ca3ad76b808b723007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fad0ee9c5d27ca270872d5029a0c7de') in 0.010083 seconds
-  Import took 0.014027 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.909118 seconds.
-  path: Assets/Prefabs/Gold.prefab
-  artifactKey: Guid(b92c0b3d66b994fde9617255b22458c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Gold.prefab using Guid(b92c0b3d66b994fde9617255b22458c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9963b168c9681a2736117d23eaa16c0d') in 0.020938 seconds
-  Import took 0.028250 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.567915 seconds.
-  path: Assets/Prefabs/Gold.prefab
-  artifactKey: Guid(b92c0b3d66b994fde9617255b22458c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Gold.prefab using Guid(b92c0b3d66b994fde9617255b22458c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef71ecad0fbd373c60317152d2e0af4c') in 0.010943 seconds
-  Import took 0.015176 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.809802 seconds.
-  path: Assets/Prefabs/Gold.prefab
-  artifactKey: Guid(b92c0b3d66b994fde9617255b22458c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Gold.prefab using Guid(b92c0b3d66b994fde9617255b22458c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '124950eda05dedbcebe2277d36002f37') in 0.011467 seconds
-  Import took 0.016367 seconds .
+Start importing Assets/Scenes/InsideHouse.unity using Guid(74f60d669d2ad46c4af0963e8a209ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4faaaf041f458c64c7e644acf3a3b83') in 0.021414 seconds
+  Import took 0.035013 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.007454 seconds.
+Registered in 0.002041 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.01 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.180 seconds
+- Completed reload, in  1.096 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.75 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1798 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 157.5 MB.
-System memory in use after: 157.5 MB.
+Unloading 1835 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.1 MB.
+System memory in use after: 153.1 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2276.
-Total: 3.541863 ms (FindLiveObjects: 0.502086 ms CreateObjectMapping: 0.199355 ms MarkObjects: 2.408001 ms  DeleteObjects: 0.430625 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002225 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.525 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1798 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 157.6 MB.
-System memory in use after: 157.7 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2279.
-Total: 8.950550 ms (FindLiveObjects: 1.586818 ms CreateObjectMapping: 0.175967 ms MarkObjects: 7.008388 ms  DeleteObjects: 0.177156 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002598 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.316 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1798 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 157.9 MB.
-System memory in use after: 157.9 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2282.
-Total: 3.378479 ms (FindLiveObjects: 0.365208 ms CreateObjectMapping: 0.154763 ms MarkObjects: 2.724009 ms  DeleteObjects: 0.132117 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2302.
+Total: 3.868082 ms (FindLiveObjects: 0.280444 ms CreateObjectMapping: 0.089904 ms MarkObjects: 3.358643 ms  DeleteObjects: 0.137331 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 199.262533 seconds.
-  path: Assets/Scripts/Silver.cs
-  artifactKey: Guid(161c898323a9a414eb7e9e0acd3bdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Silver.cs using Guid(161c898323a9a414eb7e9e0acd3bdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cd9f30be665c26f6d596ba50579aa1b') in 0.004927 seconds
-  Import took 0.009442 seconds .
+  Time since last request: 144.661428 seconds.
+  path: Assets/Scenes/OutsideHouse.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/OutsideHouse.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f006d0a7a71abdd7575a73357b061773') in 0.029120 seconds
+  Import took 0.037062 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.037146 seconds.
-  path: Assets/Scripts/Silver.cs
-  artifactKey: Guid(161c898323a9a414eb7e9e0acd3bdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Silver.cs using Guid(161c898323a9a414eb7e9e0acd3bdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cd9f30be665c26f6d596ba50579aa1b') in 0.003601 seconds
-  Import took 0.012355 seconds .
+  Time since last request: 0.001381 seconds.
+  path: Assets/Scenes/OutsideHouse.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/OutsideHouse.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f006d0a7a71abdd7575a73357b061773') in 0.001798 seconds
+  Import took 0.008644 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001288 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.217 seconds
-Platform modules already initialized, skipping
-Script error: OnTriggerEnter2D
-This message parameter has to be of type: Collider2D
-The message will be ignored.
-
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1798 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 158.2 MB.
-System memory in use after: 158.2 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2285.
-Total: 3.242154 ms (FindLiveObjects: 0.568240 ms CreateObjectMapping: 0.278756 ms MarkObjects: 2.277897 ms  DeleteObjects: 0.115497 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 185.163343 seconds.
-  path: Assets/Scripts/Silver.cs
-  artifactKey: Guid(161c898323a9a414eb7e9e0acd3bdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Silver.cs using Guid(161c898323a9a414eb7e9e0acd3bdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eea212df02d25423908b5d3ef2da896') in 0.004669 seconds
-  Import took 0.009608 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003541 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.398 seconds
-Platform modules already initialized, skipping
-Script error: OnTriggerEnter2D
-This message parameter has to be of type: Collider2D
-The message will be ignored.
-
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1798 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 158.4 MB.
-System memory in use after: 158.4 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2288.
-Total: 2.694077 ms (FindLiveObjects: 0.347655 ms CreateObjectMapping: 0.092386 ms MarkObjects: 2.069011 ms  DeleteObjects: 0.183966 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000864 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.256 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1798 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 158.6 MB.
-System memory in use after: 158.6 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2291.
-Total: 3.491217 ms (FindLiveObjects: 0.329790 ms CreateObjectMapping: 0.121474 ms MarkObjects: 2.738558 ms  DeleteObjects: 0.297764 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 480.245654 seconds.
-  path: Assets/Scripts/Silver.cs
-  artifactKey: Guid(161c898323a9a414eb7e9e0acd3bdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Silver.cs using Guid(161c898323a9a414eb7e9e0acd3bdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aa5eb04936247e86e31f73a31fac480') in 0.009448 seconds
-  Import took 0.014967 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.603103 seconds.
-  path: Assets/Scripts/Gold.cs
-  artifactKey: Guid(1f975617e9f8e4db48c9394f1de537bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Gold.cs using Guid(1f975617e9f8e4db48c9394f1de537bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcb40c03ef5f224b60c12397f9f80299') in 0.003791 seconds
-  Import took 0.017986 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002803 seconds.
+Registered in 0.001872 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
@@ -588,91 +178,52 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.413 seconds
+- Completed reload, in  1.314 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.00 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1798 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 158.8 MB.
-System memory in use after: 158.8 MB.
+Unloading 1835 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.3 MB.
+System memory in use after: 153.3 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2294.
-Total: 2.147178 ms (FindLiveObjects: 0.216645 ms CreateObjectMapping: 0.133859 ms MarkObjects: 1.672506 ms  DeleteObjects: 0.123099 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.739496 seconds.
-  path: Assets/Scripts/Gold.cs
-  artifactKey: Guid(1f975617e9f8e4db48c9394f1de537bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Gold.cs using Guid(1f975617e9f8e4db48c9394f1de537bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'accb0b298eebf4729e7852ddce7af5e7') in 0.004750 seconds
-  Import took 0.010935 seconds .
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2305.
+Total: 2.160947 ms (FindLiveObjects: 0.244710 ms CreateObjectMapping: 0.063558 ms MarkObjects: 1.743607 ms  DeleteObjects: 0.107729 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001234 seconds.
+Registered in 0.000729 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.421 seconds
+- Completed reload, in  1.128 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1798 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 159.0 MB.
-System memory in use after: 158.9 MB.
+Unloading 1835 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.5 MB.
+System memory in use after: 153.5 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2297.
-Total: 2.400083 ms (FindLiveObjects: 0.231617 ms CreateObjectMapping: 0.087117 ms MarkObjects: 1.976917 ms  DeleteObjects: 0.102145 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2308.
+Total: 2.449033 ms (FindLiveObjects: 0.297484 ms CreateObjectMapping: 0.126328 ms MarkObjects: 1.904378 ms  DeleteObjects: 0.118715 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.051127 seconds.
-  path: Assets/Scripts/Diamond.cs
-  artifactKey: Guid(f2cf0a6efc62447c8888b3051b2a7758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Diamond.cs using Guid(f2cf0a6efc62447c8888b3051b2a7758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '395a773a63416b30e63f25066cf40866') in 0.005954 seconds
-  Import took 0.011275 seconds .
+  Time since last request: 401.525986 seconds.
+  path: Assets/Scripts/PlayerData.cs
+  artifactKey: Guid(f3c769d781353473fa68a3d6ec94b5a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerData.cs using Guid(f3c769d781353473fa68a3d6ec94b5a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a1b000259b10515ed721d11042593ed') in 0.008213 seconds
+  Import took 0.014195 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.026654 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.33 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.331 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1798 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 159.1 MB.
-System memory in use after: 159.1 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2300.
-Total: 2.326835 ms (FindLiveObjects: 0.285708 ms CreateObjectMapping: 0.100004 ms MarkObjects: 1.837022 ms  DeleteObjects: 0.102718 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 609.951264 seconds.
-  path: Assets/Scripts/Score.cs
-  artifactKey: Guid(a97f3f57388534f5e8a49b74dcc66a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Score.cs using Guid(a97f3f57388534f5e8a49b74dcc66a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '697b3cdfad74a66757e6e08bf9ef5c9e') in 0.006720 seconds
-  Import took 0.011551 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001486 seconds.
+Registered in 0.001046 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
@@ -681,352 +232,21 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.179 seconds
+- Completed reload, in  1.114 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.00 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1799 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 159.3 MB.
-System memory in use after: 159.3 MB.
+Unloading 1835 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.7 MB.
+System memory in use after: 153.7 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2304.
-Total: 2.967697 ms (FindLiveObjects: 0.526275 ms CreateObjectMapping: 0.194264 ms MarkObjects: 2.126862 ms  DeleteObjects: 0.118678 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2311.
+Total: 2.793979 ms (FindLiveObjects: 0.304971 ms CreateObjectMapping: 0.075588 ms MarkObjects: 2.240286 ms  DeleteObjects: 0.170310 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.010634 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.35 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.244 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1799 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 159.5 MB.
-System memory in use after: 159.5 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2307.
-Total: 3.744854 ms (FindLiveObjects: 0.395771 ms CreateObjectMapping: 0.111207 ms MarkObjects: 3.070811 ms  DeleteObjects: 0.164797 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 128.342864 seconds.
-  path: Assets/Scripts/Score.cs
-  artifactKey: Guid(a97f3f57388534f5e8a49b74dcc66a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Score.cs using Guid(a97f3f57388534f5e8a49b74dcc66a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee110eb176225d8b86159216f79eda7d') in 0.024544 seconds
-  Import took 0.030253 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006817 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.09 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.178 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 164.4 MB.
-System memory in use after: 163.8 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2344.
-Total: 3.438176 ms (FindLiveObjects: 0.341177 ms CreateObjectMapping: 0.299694 ms MarkObjects: 2.364373 ms  DeleteObjects: 0.430973 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001803 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.06 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.307 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 164.6 MB.
-System memory in use after: 164.0 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2347.
-Total: 2.350887 ms (FindLiveObjects: 0.228364 ms CreateObjectMapping: 0.063320 ms MarkObjects: 1.667346 ms  DeleteObjects: 0.391033 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000823 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.276 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.07 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 164.8 MB.
-System memory in use after: 164.2 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2350.
-Total: 2.772997 ms (FindLiveObjects: 0.348419 ms CreateObjectMapping: 0.088030 ms MarkObjects: 1.940331 ms  DeleteObjects: 0.394901 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003123 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.18 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.857 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 165.0 MB.
-System memory in use after: 164.4 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2353.
-Total: 3.996290 ms (FindLiveObjects: 0.308187 ms CreateObjectMapping: 0.110140 ms MarkObjects: 3.085691 ms  DeleteObjects: 0.488539 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002698 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.176 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 165.2 MB.
-System memory in use after: 164.6 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2356.
-Total: 2.626196 ms (FindLiveObjects: 0.222279 ms CreateObjectMapping: 0.066771 ms MarkObjects: 1.930571 ms  DeleteObjects: 0.405587 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001423 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.246 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 165.4 MB.
-System memory in use after: 164.7 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2359.
-Total: 2.571309 ms (FindLiveObjects: 0.255851 ms CreateObjectMapping: 0.083831 ms MarkObjects: 1.744538 ms  DeleteObjects: 0.485077 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001065 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.321 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 165.5 MB.
-System memory in use after: 164.9 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2362.
-Total: 2.443794 ms (FindLiveObjects: 0.220030 ms CreateObjectMapping: 0.066620 ms MarkObjects: 1.758321 ms  DeleteObjects: 0.397807 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001986 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.51 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.018 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 165.7 MB.
-System memory in use after: 165.1 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2365.
-Total: 5.512687 ms (FindLiveObjects: 0.370117 ms CreateObjectMapping: 0.101987 ms MarkObjects: 3.497298 ms  DeleteObjects: 1.541570 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000858 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.225 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 165.9 MB.
-System memory in use after: 165.3 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2368.
-Total: 2.960157 ms (FindLiveObjects: 0.331825 ms CreateObjectMapping: 0.063498 ms MarkObjects: 2.099651 ms  DeleteObjects: 0.464189 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 667.137847 seconds.
-  path: Assets/Scripts/CharaScript.cs
-  artifactKey: Guid(bdeb956cd11e44047adb1f6d13b37e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/CharaScript.cs using Guid(bdeb956cd11e44047adb1f6d13b37e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '988ad3d8d8724cc57b8c83cb17c4d981') in 0.014290 seconds
-  Import took 0.018728 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.088774 seconds.
-  path: Assets/Scripts/CharaScript.cs
-  artifactKey: Guid(bdeb956cd11e44047adb1f6d13b37e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/CharaScript.cs using Guid(bdeb956cd11e44047adb1f6d13b37e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '988ad3d8d8724cc57b8c83cb17c4d981') in 0.003493 seconds
-  Import took 0.007047 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001345 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.183 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 166.1 MB.
-System memory in use after: 165.5 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2371.
-Total: 3.615681 ms (FindLiveObjects: 0.405727 ms CreateObjectMapping: 0.263173 ms MarkObjects: 2.277528 ms  DeleteObjects: 0.667162 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 342.868672 seconds.
-  path: Assets/Scripts/Silver.cs
-  artifactKey: Guid(161c898323a9a414eb7e9e0acd3bdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Silver.cs using Guid(161c898323a9a414eb7e9e0acd3bdf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2bba2ddbc53be65df23b6dd4713fc32') in 0.004782 seconds
-  Import took 0.010340 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001674 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.703 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.30 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 166.3 MB.
-System memory in use after: 165.7 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2374.
-Total: 3.346079 ms (FindLiveObjects: 0.363194 ms CreateObjectMapping: 0.108773 ms MarkObjects: 2.217983 ms  DeleteObjects: 0.649970 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000773 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.29 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.516 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 166.5 MB.
-System memory in use after: 165.9 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2377.
-Total: 2.566233 ms (FindLiveObjects: 0.341940 ms CreateObjectMapping: 0.073603 ms MarkObjects: 1.719186 ms  DeleteObjects: 0.430688 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001666 seconds.
+Registered in 0.001628 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
@@ -1035,14 +255,1145 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.292 seconds
+- Completed reload, in  1.180 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1846 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 166.7 MB.
-System memory in use after: 166.1 MB.
+Unloading 1835 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.9 MB.
+System memory in use after: 153.9 MB.
 
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2380.
-Total: 4.160414 ms (FindLiveObjects: 0.512669 ms CreateObjectMapping: 0.140029 ms MarkObjects: 2.954362 ms  DeleteObjects: 0.549827 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2314.
+Total: 2.396892 ms (FindLiveObjects: 0.294052 ms CreateObjectMapping: 0.091912 ms MarkObjects: 1.898271 ms  DeleteObjects: 0.111066 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 383.706708 seconds.
+  path: Assets/Scripts/CharaScript.cs
+  artifactKey: Guid(bdeb956cd11e44047adb1f6d13b37e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CharaScript.cs using Guid(bdeb956cd11e44047adb1f6d13b37e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a569417310c9c83ae1a1e119d931d9e1') in 0.017790 seconds
+  Import took 0.022977 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001127 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.146 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.13 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1835 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 154.1 MB.
+System memory in use after: 154.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2317.
+Total: 3.509922 ms (FindLiveObjects: 0.462432 ms CreateObjectMapping: 0.288768 ms MarkObjects: 2.617756 ms  DeleteObjects: 0.138784 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 341.453670 seconds.
+  path: Assets/Scripts/Door.cs
+  artifactKey: Guid(55127d1865e114ba3a7022d9b3fae46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Door.cs using Guid(55127d1865e114ba3a7022d9b3fae46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91a7fa9a1450fcb1696c563466a0772a') in 0.009823 seconds
+  Import took 0.015235 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001396 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.194 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1835 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 154.3 MB.
+System memory in use after: 154.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2320.
+Total: 2.711374 ms (FindLiveObjects: 0.326606 ms CreateObjectMapping: 0.094472 ms MarkObjects: 2.177030 ms  DeleteObjects: 0.111611 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.232029 seconds.
+  path: Assets/Scripts/Door.cs
+  artifactKey: Guid(55127d1865e114ba3a7022d9b3fae46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Door.cs using Guid(55127d1865e114ba3a7022d9b3fae46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49643407c3724573c204d32591abcaea') in 0.013183 seconds
+  Import took 0.018310 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001043 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.289 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1835 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 154.5 MB.
+System memory in use after: 154.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2323.
+Total: 2.350310 ms (FindLiveObjects: 0.215624 ms CreateObjectMapping: 0.057652 ms MarkObjects: 1.951723 ms  DeleteObjects: 0.124002 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 869.718718 seconds.
+  path: Assets/2D World Building/Unorganized Parts
+  artifactKey: Guid(44c86326788334e038f8100d135aa075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Unorganized Parts using Guid(44c86326788334e038f8100d135aa075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19e9c2bb1f0b8799f47a017181bd20e8') in 0.013056 seconds
+  Import took 0.020027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.834007 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[A]_type1
+  artifactKey: Guid(8516bef75aad74da1bbe0078c33ca310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[A]_type1 using Guid(8516bef75aad74da1bbe0078c33ca310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef13b2899c241352133bcfd77ee7b3a1') in 0.001171 seconds
+  Import took 0.006850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.280111 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_90 2.asset
+  artifactKey: Guid(c540bae2c72194a00b63a0e64416ec88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_90 2.asset using Guid(c540bae2c72194a00b63a0e64416ec88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1364a3a54491f6c4bcc1a2cd3093edf9') in 0.380731 seconds
+  Import took 0.386973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_173 2.asset
+  artifactKey: Guid(0ef04390cfc8f41f0acb5ddbf0ec36a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_173 2.asset using Guid(0ef04390cfc8f41f0acb5ddbf0ec36a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ff8207024283a9499d25fd288a1d63d') in 0.006353 seconds
+  Import took 0.010142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_157.asset
+  artifactKey: Guid(c7cac8b7e52464e25a3f2a735c58527b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_157.asset using Guid(c7cac8b7e52464e25a3f2a735c58527b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '553919db015ed47bd426bc24a2610f83') in 0.007151 seconds
+  Import took 0.011140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_99.asset
+  artifactKey: Guid(42dfede4d8ad546258f80077a78fc404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_99.asset using Guid(42dfede4d8ad546258f80077a78fc404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b32f74e1a339f7e74266ab5eb246289') in 0.018433 seconds
+  Import took 0.022813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_165.asset
+  artifactKey: Guid(d7d2e58b1616748849ea301496fcec6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_165.asset using Guid(d7d2e58b1616748849ea301496fcec6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45e0c82b2a51c34fe8f7d3d206d93716') in 0.007639 seconds
+  Import took 0.013520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_156.asset
+  artifactKey: Guid(2323b26fd6cf148308b6feb45444a614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_156.asset using Guid(2323b26fd6cf148308b6feb45444a614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd06055791a806f9bdd8de85f72b992ea') in 0.008948 seconds
+  Import took 0.015253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_91 2.asset
+  artifactKey: Guid(7d06d81548dea4ae28cadd6e6a722422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_91 2.asset using Guid(7d06d81548dea4ae28cadd6e6a722422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b604024d7567ac0b74931dac1801914a') in 0.008155 seconds
+  Import took 0.013665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_92.asset
+  artifactKey: Guid(132e617b6e8554b7689fe74d04afd30f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_92.asset using Guid(132e617b6e8554b7689fe74d04afd30f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66798088d52b62ebd3e3591f0494b521') in 0.005758 seconds
+  Import took 0.009650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_95 2.asset
+  artifactKey: Guid(828998a55876c4aa995a9d1fdc77f328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_95 2.asset using Guid(828998a55876c4aa995a9d1fdc77f328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1811e617e1da87b1e7449a49b058f5e') in 0.007467 seconds
+  Import took 0.011283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000638 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_100 2.asset
+  artifactKey: Guid(24021a0d66beb4e87bf02d3af9cdc9b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_100 2.asset using Guid(24021a0d66beb4e87bf02d3af9cdc9b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24d80fd3d47cd3cf3c0664f91c2dcbaa') in 0.007120 seconds
+  Import took 0.011711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_159.asset
+  artifactKey: Guid(03ec4c374d2a940968e2c4243ba62daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_159.asset using Guid(03ec4c374d2a940968e2c4243ba62daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcd1a5eead4b35f0acb6122e844a3e99') in 0.007070 seconds
+  Import took 0.011395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_97 2.asset
+  artifactKey: Guid(5425041416a764763a454bc2e07de9e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_97 2.asset using Guid(5425041416a764763a454bc2e07de9e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f328e212d7cd5a6f248d95c9ca9747') in 0.007779 seconds
+  Import took 0.013314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_101.asset
+  artifactKey: Guid(439237dd210ec4cee8eb7120984c47d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_101.asset using Guid(439237dd210ec4cee8eb7120984c47d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3972ebcb59efc61a88675da9c9cffd2') in 0.009752 seconds
+  Import took 0.015405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_160.asset
+  artifactKey: Guid(4aab6c81060b443aa8e59accc893c40e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_160.asset using Guid(4aab6c81060b443aa8e59accc893c40e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef8869d4b3cc333f6f874ffd2b43d4c') in 0.005348 seconds
+  Import took 0.009780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_165 2.asset
+  artifactKey: Guid(89cd17a3c6a8f44b6bce2e87574fe4aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_165 2.asset using Guid(89cd17a3c6a8f44b6bce2e87574fe4aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a6f29a19c05d877b781749e12be2d5e') in 0.005905 seconds
+  Import took 0.010011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_92 2.asset
+  artifactKey: Guid(31d03a3b546a04902ba061f2f365ab58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_92 2.asset using Guid(31d03a3b546a04902ba061f2f365ab58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3732563f84f99ddbe1e7e564ace76f5') in 0.006457 seconds
+  Import took 0.011198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_156 2.asset
+  artifactKey: Guid(8d0411e634a2b4a87bb41a5ede024745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_156 2.asset using Guid(8d0411e634a2b4a87bb41a5ede024745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6219c6b23dab41dbc6cf32ece258165e') in 0.007772 seconds
+  Import took 0.012861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_161.asset
+  artifactKey: Guid(1f761328632a3446fa591ae1c1ab15a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_161.asset using Guid(1f761328632a3446fa591ae1c1ab15a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fedd1fe26254d56a64cc4aca21e71c0') in 0.005977 seconds
+  Import took 0.010681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_172 2.asset
+  artifactKey: Guid(029f50dd3396341ecb0360e3dbd51de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_172 2.asset using Guid(029f50dd3396341ecb0360e3dbd51de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55a298e0b20d3875d7635acb5bfbd27b') in 0.005711 seconds
+  Import took 0.009836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_163.asset
+  artifactKey: Guid(70e3c3e2c0e7345b79c278ca5db469d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_163.asset using Guid(70e3c3e2c0e7345b79c278ca5db469d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaba80e4a13c6339dd515a7b5d2e6927') in 0.012533 seconds
+  Import took 0.018438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_158 2.asset
+  artifactKey: Guid(d3df6dc4a0e6845dcb48d84f5d0d1b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_158 2.asset using Guid(d3df6dc4a0e6845dcb48d84f5d0d1b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a699a004b0022706074d272078c240ee') in 0.005439 seconds
+  Import took 0.009239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_158.asset
+  artifactKey: Guid(b363f6f4630034db0a3e42f0da1f3f58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_158.asset using Guid(b363f6f4630034db0a3e42f0da1f3f58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a7781f8570b74817d1095989f9d08af') in 0.004907 seconds
+  Import took 0.008867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_96.asset
+  artifactKey: Guid(c485a7ab375d5449c8a268b2154232f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_96.asset using Guid(c485a7ab375d5449c8a268b2154232f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e656c135a77b8a9b09605ce3b258c7') in 0.004496 seconds
+  Import took 0.009041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000706 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_90.asset
+  artifactKey: Guid(96535e95539cb4409bfb6ac2614c75db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_90.asset using Guid(96535e95539cb4409bfb6ac2614c75db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd016d0895c9c7741f9c02d7abbdd1b3d') in 0.008451 seconds
+  Import took 0.012591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_93 2.asset
+  artifactKey: Guid(5f278db8076ba4740881293e4aeac7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_93 2.asset using Guid(5f278db8076ba4740881293e4aeac7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df7d51b6256dfdceca62e8efdbf3d668') in 0.005447 seconds
+  Import took 0.009682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_94.asset
+  artifactKey: Guid(dfa1f1308f1924dd5a043c16ad53acc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_94.asset using Guid(dfa1f1308f1924dd5a043c16ad53acc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40fb12fd71615b03d70ca9bb285b7963') in 0.005452 seconds
+  Import took 0.009983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_337 2.asset
+  artifactKey: Guid(52d97443826f64c45ae98549bef9b122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_337 2.asset using Guid(52d97443826f64c45ae98549bef9b122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dacdfed05d27bdd3df6a2725d6ac677e') in 0.013032 seconds
+  Import took 0.018199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_338.asset
+  artifactKey: Guid(b1096da239dfc4336809dc628f70b9fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_338.asset using Guid(b1096da239dfc4336809dc628f70b9fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '913354033a8522a74eed8b01955dfe58') in 0.021820 seconds
+  Import took 0.025790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_171 2.asset
+  artifactKey: Guid(f6a44593ca3904e25a9c19575e9322c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_171 2.asset using Guid(f6a44593ca3904e25a9c19575e9322c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc80905a47cf9ddcaa8f15682b36417e') in 0.011320 seconds
+  Import took 0.017000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_159 2.asset
+  artifactKey: Guid(402fdec40929f41bd81e7a4400e5f2f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_159 2.asset using Guid(402fdec40929f41bd81e7a4400e5f2f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '447696d3ef37e54eb9e7399782df56f7') in 0.006302 seconds
+  Import took 0.011235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_160 2.asset
+  artifactKey: Guid(e19c534959788410ebf63380c79a965e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_160 2.asset using Guid(e19c534959788410ebf63380c79a965e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60eaf8b6c0962b00ecbea2f1d30dd162') in 0.005305 seconds
+  Import took 0.009487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_395.asset
+  artifactKey: Guid(151427a96100a4e0db3de8286df952c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_395.asset using Guid(151427a96100a4e0db3de8286df952c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65a12582dbff58add8db3d0c16cf58c') in 0.015395 seconds
+  Import took 0.020785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_100.asset
+  artifactKey: Guid(7cb5b67571e49408587a84b0b4bdf559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_100.asset using Guid(7cb5b67571e49408587a84b0b4bdf559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d3afa260d5b319e9c6bf0052df54a9c') in 0.007785 seconds
+  Import took 0.012866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_154 2.asset
+  artifactKey: Guid(5e2e8e58a586340c987623069a9d09cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_154 2.asset using Guid(5e2e8e58a586340c987623069a9d09cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbe149958ba2272f50d06271e98307a7') in 0.006165 seconds
+  Import took 0.011046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_155 2.asset
+  artifactKey: Guid(1bba0a0689f064d70843ba2e155f4211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_155 2.asset using Guid(1bba0a0689f064d70843ba2e155f4211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11e9088bf7c0f6706e7752e5d3936fdc') in 0.006943 seconds
+  Import took 0.012162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_164.asset
+  artifactKey: Guid(2a7b3de5a885a4c2cbc100a39928be1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_164.asset using Guid(2a7b3de5a885a4c2cbc100a39928be1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ecca447e79284000d30362c11d29d72') in 0.015266 seconds
+  Import took 0.021027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_171.asset
+  artifactKey: Guid(ff677175b0df845f6b2f024f83a21068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_171.asset using Guid(ff677175b0df845f6b2f024f83a21068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b6e923e70fbbcfdd41786603a457492') in 0.006261 seconds
+  Import took 0.010898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_164 2.asset
+  artifactKey: Guid(362d1a9e540e349fd9d4efdabeb53ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_164 2.asset using Guid(362d1a9e540e349fd9d4efdabeb53ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4db1b220d2a43d5e7bf50fac7ff658') in 0.005892 seconds
+  Import took 0.009870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_97.asset
+  artifactKey: Guid(1392214cc640c42159293a371594935d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_97.asset using Guid(1392214cc640c42159293a371594935d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11b4a5dc84af5d074fdf08ab2e3224fb') in 0.005960 seconds
+  Import took 0.009651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_396 2.asset
+  artifactKey: Guid(b18296e4aea1244a484619187785fd70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_396 2.asset using Guid(b18296e4aea1244a484619187785fd70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b45df37efea1326831020f7a061028b0') in 0.007367 seconds
+  Import took 0.013773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_169.asset
+  artifactKey: Guid(a27f5d2600536471baa9349a9755d8aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_169.asset using Guid(a27f5d2600536471baa9349a9755d8aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '606942f87ba2258cbc591129dcb2be9d') in 0.005865 seconds
+  Import took 0.010571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_414.asset
+  artifactKey: Guid(20a8b14d1056c4372838f42f93f907da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_414.asset using Guid(20a8b14d1056c4372838f42f93f907da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a292666654dad6fb613f3d16857a48a4') in 0.005923 seconds
+  Import took 0.010173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_416 2.asset
+  artifactKey: Guid(71d98da45a7d94c9fac278cdb3f92614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_416 2.asset using Guid(71d98da45a7d94c9fac278cdb3f92614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeb62366fff6e4aaee33df326fa8a539') in 0.006976 seconds
+  Import took 0.013561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000934 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_419 2.asset
+  artifactKey: Guid(6ad23861193cc4e35aafdd7f703b4513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_419 2.asset using Guid(6ad23861193cc4e35aafdd7f703b4513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e93c2ffc3312ae176e6fd1ef202d2320') in 0.007723 seconds
+  Import took 0.015030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_421.asset
+  artifactKey: Guid(7f5d638c474354404b25548b8efe2474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_421.asset using Guid(7f5d638c474354404b25548b8efe2474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '093bc0261629b503649b71207ab9f332') in 0.006179 seconds
+  Import took 0.010404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_421 2.asset
+  artifactKey: Guid(fc8247cf4fc8e4c15bceea3ab26e6a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_421 2.asset using Guid(fc8247cf4fc8e4c15bceea3ab26e6a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64051dd971c1b34851294277a37fb62d') in 0.006617 seconds
+  Import took 0.011127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_423 2.asset
+  artifactKey: Guid(3cbd3dc9844554e0aa6b476b1c2ac4ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_423 2.asset using Guid(3cbd3dc9844554e0aa6b476b1c2ac4ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d5d3c861f30a028ab3cb2b8a107f74c') in 0.005649 seconds
+  Import took 0.009875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_417 2.asset
+  artifactKey: Guid(c329b9d3f69854b3babbd905a56f6da1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_417 2.asset using Guid(c329b9d3f69854b3babbd905a56f6da1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08777497f0a9d32d880ed9b3b29bc334') in 0.005770 seconds
+  Import took 0.010586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_413.asset
+  artifactKey: Guid(1a8c1eb996d96492e8a293eeb2333149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_413.asset using Guid(1a8c1eb996d96492e8a293eeb2333149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44c530bbd37d11bba1eda87fa11690a4') in 0.008618 seconds
+  Import took 0.013966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_415 2.asset
+  artifactKey: Guid(5fd54c309ad7d43ffb4dd7b3857f96ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_415 2.asset using Guid(5fd54c309ad7d43ffb4dd7b3857f96ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f43635e5a8886dd6f099f5591bca189') in 0.005731 seconds
+  Import took 0.011130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_422.asset
+  artifactKey: Guid(4c9aab66383b04c308b01f24f7c698f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_422.asset using Guid(4c9aab66383b04c308b01f24f7c698f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5093fb302627d4884641426a6d238206') in 0.007067 seconds
+  Import took 0.012444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_412 2.asset
+  artifactKey: Guid(d7e93419a6fbd49fb94c3c5f516dde42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_412 2.asset using Guid(d7e93419a6fbd49fb94c3c5f516dde42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abaadc3ede5d172cb2120fc9a0107c41') in 0.010545 seconds
+  Import took 0.016382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_411.asset
+  artifactKey: Guid(a025bfd47c2ed4836939857164be48e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_411.asset using Guid(a025bfd47c2ed4836939857164be48e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2985cfaedfe8ceddb742ab7d3636a8a2') in 0.006225 seconds
+  Import took 0.010670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_420 2.asset
+  artifactKey: Guid(12c9e4e4e449c4ab9a03d290caf71536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_420 2.asset using Guid(12c9e4e4e449c4ab9a03d290caf71536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5de41cdeca0c89c111301a13e3bc4a6b') in 0.005052 seconds
+  Import took 0.008903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_339.asset
+  artifactKey: Guid(94b0678217659471e9678640b03322f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_339.asset using Guid(94b0678217659471e9678640b03322f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b52785989168a1fa816690184fa847a') in 0.007016 seconds
+  Import took 0.011581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_396.asset
+  artifactKey: Guid(a83821878330f431eb8ee728d1b7d153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_396.asset using Guid(a83821878330f431eb8ee728d1b7d153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aae10298348b2fa892251dc1f301d42') in 0.008980 seconds
+  Import took 0.013748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_161 2.asset
+  artifactKey: Guid(83467d9269bf74d8e8f493e21aec3e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_161 2.asset using Guid(83467d9269bf74d8e8f493e21aec3e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3de056d3b9247c60fa150bf07890b8ac') in 0.024532 seconds
+  Import took 0.029067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_154.asset
+  artifactKey: Guid(4aa996da3950042ada4bad3565379c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_154.asset using Guid(4aa996da3950042ada4bad3565379c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c5d2064fb010e8c7d49222a3ad9a9ef') in 0.004795 seconds
+  Import took 0.009267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_168.asset
+  artifactKey: Guid(0d6629350c02647d2a7ca1283e5484a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_168.asset using Guid(0d6629350c02647d2a7ca1283e5484a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d8308eb0be908f206f0496c31f691cd') in 0.005773 seconds
+  Import took 0.009536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_338 2.asset
+  artifactKey: Guid(600558892924141a98c22e1c8d4ae719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_338 2.asset using Guid(600558892924141a98c22e1c8d4ae719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5005d5762a487e2edb6f66960bba8e0d') in 0.006441 seconds
+  Import took 0.010759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_98 2.asset
+  artifactKey: Guid(a0fb25418c4584e8a804b60c62ec06cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_98 2.asset using Guid(a0fb25418c4584e8a804b60c62ec06cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d0b64e47ebef618778a6df5ae875173') in 0.005507 seconds
+  Import took 0.010056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_157 2.asset
+  artifactKey: Guid(e6e442247a27e450db60b331b10a898d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_157 2.asset using Guid(e6e442247a27e450db60b331b10a898d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28cb63fc590032988fa7c93d8c667bf5') in 0.006164 seconds
+  Import took 0.010871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_418 2.asset
+  artifactKey: Guid(003ba93024b784685912db9acde7166c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_418 2.asset using Guid(003ba93024b784685912db9acde7166c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a69be09ceda423d5248543cebce4226d') in 0.008022 seconds
+  Import took 0.013150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_162 2.asset
+  artifactKey: Guid(d1bc39c8d644649378f6d4a98ca93d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_162 2.asset using Guid(d1bc39c8d644649378f6d4a98ca93d09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dc2c09fdf707ff9c3ecb60b14871b65') in 0.009307 seconds
+  Import took 0.014683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_93.asset
+  artifactKey: Guid(dec1d3579459f4deaabddda46814897b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_93.asset using Guid(dec1d3579459f4deaabddda46814897b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f50a63d70bcbac1234ca3928362abb6') in 0.006174 seconds
+  Import took 0.010890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_99 2.asset
+  artifactKey: Guid(b6a2c529c767c424ea15420982fa4574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_99 2.asset using Guid(b6a2c529c767c424ea15420982fa4574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40f50189db6a0a3eb9bbdee60a4e21cd') in 0.004758 seconds
+  Import took 0.008849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_163 2.asset
+  artifactKey: Guid(0ec8422c9e87547509dc25c50871082c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_163 2.asset using Guid(0ec8422c9e87547509dc25c50871082c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aafa59a85667a2d5b6cfa7405ee4b0c8') in 0.005305 seconds
+  Import took 0.009140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_173.asset
+  artifactKey: Guid(93e3d7b1748fa476d85408bf9034ada3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_173.asset using Guid(93e3d7b1748fa476d85408bf9034ada3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '999e08c61d149d791b7035a6967a9fea') in 0.004873 seconds
+  Import took 0.008985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_337.asset
+  artifactKey: Guid(24fdc00e2208e416e9873d6b54f0cc8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_337.asset using Guid(24fdc00e2208e416e9873d6b54f0cc8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cd8df3c1bad321257b86cad1e07c033') in 0.009535 seconds
+  Import took 0.014114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_95.asset
+  artifactKey: Guid(7c267887be5174d23b214931b0f82654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_95.asset using Guid(7c267887be5174d23b214931b0f82654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c06175857aa0a69eaad89686aa9128f') in 0.006582 seconds
+  Import took 0.010803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_414 2.asset
+  artifactKey: Guid(b7e05b4a5c8bc49939b9752fcf5214b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_414 2.asset using Guid(b7e05b4a5c8bc49939b9752fcf5214b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a93b2b0f99fb453e3e622f87a6f3a657') in 0.005820 seconds
+  Import took 0.009831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_170.asset
+  artifactKey: Guid(31d11101b692f40f082d988ca2699884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_170.asset using Guid(31d11101b692f40f082d988ca2699884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1defe8dd0c02bb18995bf28817541a91') in 0.006049 seconds
+  Import took 0.010017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_102 2.asset
+  artifactKey: Guid(d5fa99c56536b475ebef52743a2292c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_102 2.asset using Guid(d5fa99c56536b475ebef52743a2292c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd633bb5e68c9bc6a10008dd1d4055e67') in 0.008390 seconds
+  Import took 0.014533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_91.asset
+  artifactKey: Guid(ea3e81324e143458aa1b580427e29e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_91.asset using Guid(ea3e81324e143458aa1b580427e29e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc53a756e536db4abeaf79f3d5593685') in 0.016372 seconds
+  Import took 0.020803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_96 2.asset
+  artifactKey: Guid(9d10bbb397d494ceca55c0723b3734df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_96 2.asset using Guid(9d10bbb397d494ceca55c0723b3734df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9515079cdfb3e4be0a569884b773b2c0') in 0.006705 seconds
+  Import took 0.011552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_170 2.asset
+  artifactKey: Guid(9e1bd5188a6534ee3ba2533e38aee9c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_170 2.asset using Guid(9e1bd5188a6534ee3ba2533e38aee9c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0680f840a818666e630503b1618e1970') in 0.005926 seconds
+  Import took 0.011081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_94 2.asset
+  artifactKey: Guid(c296618b6f5e04f13a3b6f8a5314f5ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_94 2.asset using Guid(c296618b6f5e04f13a3b6f8a5314f5ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78b1a142480f9e51aefa558832afd7d9') in 0.005422 seconds
+  Import took 0.009415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_750 2.asset
+  artifactKey: Guid(842e1044dbc3744459dbde028e0b2950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_750 2.asset using Guid(842e1044dbc3744459dbde028e0b2950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c4ee3af0689ee37a79986154a299b12') in 0.006045 seconds
+  Import took 0.010694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001350 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_752.asset
+  artifactKey: Guid(2da116961a57d45919905d01385b896c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_752.asset using Guid(2da116961a57d45919905d01385b896c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95eff5c4d3604dea2ec0eaf442143945') in 0.010073 seconds
+  Import took 0.015129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_423.asset
+  artifactKey: Guid(340a3eaccda284c50abff92f83755b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_423.asset using Guid(340a3eaccda284c50abff92f83755b47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '152a63b080e5691e7c16e9a711dba620') in 0.004737 seconds
+  Import took 0.008634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_751.asset
+  artifactKey: Guid(0b87a226df38f45ecb59727a046cb713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_751.asset using Guid(0b87a226df38f45ecb59727a046cb713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2860bdb02afabf0bcc9e206f7d97adb') in 0.006266 seconds
+  Import took 0.010236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_748.asset
+  artifactKey: Guid(abead0fa6862b4380a971e8d00cdd158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_748.asset using Guid(abead0fa6862b4380a971e8d00cdd158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '893a45e2a373955eb1555dbaa44f24d2') in 0.006647 seconds
+  Import took 0.011108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_749 2.asset
+  artifactKey: Guid(397963a0d34d44b739b8bd4813434e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_749 2.asset using Guid(397963a0d34d44b739b8bd4813434e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3586f92bdda115c95a885a239e5131a') in 0.006519 seconds
+  Import took 0.010409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_750.asset
+  artifactKey: Guid(9cd710a13526e488b8d8f1f41824ca67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_750.asset using Guid(9cd710a13526e488b8d8f1f41824ca67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4950dbd336b19b9852bce4beb380dc07') in 0.005966 seconds
+  Import took 0.009971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_753.asset
+  artifactKey: Guid(74d89129efc57489f941fa55c16c4a1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_753.asset using Guid(74d89129efc57489f941fa55c16c4a1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df810813b482db97260d996de9bad5fd') in 0.006649 seconds
+  Import took 0.011748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000864 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_413 2.asset
+  artifactKey: Guid(d0a8732d3398947b7b1e91ab678d79e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_413 2.asset using Guid(d0a8732d3398947b7b1e91ab678d79e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b04cc75ff8f2dd495f369ff9c2d2647c') in 0.010984 seconds
+  Import took 0.016102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_339 2.asset
+  artifactKey: Guid(83b8f4fd4da9249d88a7984ee12e392b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_339 2.asset using Guid(83b8f4fd4da9249d88a7984ee12e392b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff2398ab3abf8ad4d9e9316c6982da86') in 0.005149 seconds
+  Import took 0.009046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_419.asset
+  artifactKey: Guid(91777252eb7a24e73b31108df18f717f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_419.asset using Guid(91777252eb7a24e73b31108df18f717f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d7bfb51235e76ba887e13b9ea40c003') in 0.006062 seconds
+  Import took 0.010592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_753 2.asset
+  artifactKey: Guid(3e08ca35349304a7f867f7404ee08e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_753 2.asset using Guid(3e08ca35349304a7f867f7404ee08e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5de3ffb4cf5a11ae6119ad571106b722') in 0.004881 seconds
+  Import took 0.009301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_412.asset
+  artifactKey: Guid(f430ac7aa304a49e780fcdb5a9e66100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_412.asset using Guid(f430ac7aa304a49e780fcdb5a9e66100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '017880e985db8f61614c4a23546a5a03') in 0.007739 seconds
+  Import took 0.011876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_749.asset
+  artifactKey: Guid(f456d8805f1b547c886de723a81333a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_749.asset using Guid(f456d8805f1b547c886de723a81333a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b159e5be9e4e58c8c8fa3c7a95292dd') in 0.005565 seconds
+  Import took 0.009525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_98.asset
+  artifactKey: Guid(435be63d4e55c4ae5ab99fbb1d078cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_98.asset using Guid(435be63d4e55c4ae5ab99fbb1d078cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f2591aaf5c6b00afe63b251d24a8063') in 0.005768 seconds
+  Import took 0.010487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_153.asset
+  artifactKey: Guid(67fd9ba0d372a4077b6c1e1b29e72e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_153.asset using Guid(67fd9ba0d372a4077b6c1e1b29e72e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fb022f6c49fa05f781b59b44b4ad78e') in 0.012367 seconds
+  Import took 0.018083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_172.asset
+  artifactKey: Guid(9b082f1bc2d664974973b3ddaa414e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_172.asset using Guid(9b082f1bc2d664974973b3ddaa414e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9612efdf7868aa1d903d2c86060dbd6') in 0.005048 seconds
+  Import took 0.008704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_747 2.asset
+  artifactKey: Guid(f7ce26ab8f91947fbb9fb446cf236896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_747 2.asset using Guid(f7ce26ab8f91947fbb9fb446cf236896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '150fe975577a2a68f82cfd7a5567e8e1') in 0.004382 seconds
+  Import took 0.008312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_162.asset
+  artifactKey: Guid(8654dd0240a0740748057c6edb9634c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_162.asset using Guid(8654dd0240a0740748057c6edb9634c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aedcb4ef4c81ee42657354c7984612e') in 0.007472 seconds
+  Import took 0.011337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_751 2.asset
+  artifactKey: Guid(1555cc087e5354b3393f8e61240f4189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_751 2.asset using Guid(1555cc087e5354b3393f8e61240f4189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34ba3f3d494d036d1a9aa90749fd8b38') in 0.007334 seconds
+  Import took 0.011902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_422 2.asset
+  artifactKey: Guid(3e0d75b65ab854242861b7d52275c5a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_422 2.asset using Guid(3e0d75b65ab854242861b7d52275c5a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0aa6b6a7b35a9924c9447919eace490') in 0.005510 seconds
+  Import took 0.010244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_416.asset
+  artifactKey: Guid(81276a1dff758435b95ff7a83167feb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_416.asset using Guid(81276a1dff758435b95ff7a83167feb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a5dd1e57219c52bc26e155bcbe20d17') in 0.005785 seconds
+  Import took 0.010276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_752 2.asset
+  artifactKey: Guid(cae10b7a10e1c407eb5d4e30dfe15be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_752 2.asset using Guid(cae10b7a10e1c407eb5d4e30dfe15be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1a967c58626d146c7a7762d496ce58a') in 0.014621 seconds
+  Import took 0.019280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_746.asset
+  artifactKey: Guid(93a3adeb558514c8195e282f9ca88e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_746.asset using Guid(93a3adeb558514c8195e282f9ca88e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '542617212b8187de261cc8662caee64c') in 0.004644 seconds
+  Import took 0.008275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_420.asset
+  artifactKey: Guid(70683a82280394d269f174a356ce11bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_420.asset using Guid(70683a82280394d269f174a356ce11bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c9abf601870b92d226b913fea1ef095') in 0.004712 seconds
+  Import took 0.008711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_169 2.asset
+  artifactKey: Guid(98da7db6ddd274554a3d5bb0e6af24a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_169 2.asset using Guid(98da7db6ddd274554a3d5bb0e6af24a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98c404da65639cbe99a4b31a06f53a8f') in 0.005228 seconds
+  Import took 0.008702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_747.asset
+  artifactKey: Guid(3ba28b2a62ec542e5aa6f4f9ab9b700f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_747.asset using Guid(3ba28b2a62ec542e5aa6f4f9ab9b700f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c3dd4757c587525cb149bf874eec2a5') in 0.009902 seconds
+  Import took 0.014981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_417.asset
+  artifactKey: Guid(a2d94e197acfb4a3aaacb68df98c53f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_417.asset using Guid(a2d94e197acfb4a3aaacb68df98c53f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b101cb5e9b853d07a11e9da2493b8cab') in 0.005620 seconds
+  Import took 0.009509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_418.asset
+  artifactKey: Guid(d48a24ce09a294014b3df1afcd5ea10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_418.asset using Guid(d48a24ce09a294014b3df1afcd5ea10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b557a61064fc4484a046125a49aaa3a4') in 0.005594 seconds
+  Import took 0.010199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_155.asset
+  artifactKey: Guid(458dae498ca06407cbbee26e2087a7b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_155.asset using Guid(458dae498ca06407cbbee26e2087a7b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f5a2ab3482c5e666daf3227bdabb910') in 0.012398 seconds
+  Import took 0.018746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_415.asset
+  artifactKey: Guid(3fb6fd21603a14b5a8a62fab23a41671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_415.asset using Guid(3fb6fd21603a14b5a8a62fab23a41671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1bbe4453ebbb348d91b1cbf864b5c30') in 0.004822 seconds
+  Import took 0.008443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_748 2.asset
+  artifactKey: Guid(8215cf797920a43baaca8f8bb8d86835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_748 2.asset using Guid(8215cf797920a43baaca8f8bb8d86835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a1b7b42e2477de5aeae20aab5a2d34c') in 0.005723 seconds
+  Import took 0.009114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_101 2.asset
+  artifactKey: Guid(bcd776a2c75b54a41a3ef64eb0371473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Pipoya RPG Tileset 32x32/[Base]BaseChip_pipo_101 2.asset using Guid(bcd776a2c75b54a41a3ef64eb0371473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06cf6a94d028b568bfe7c13578df5587') in 0.004744 seconds
+  Import took 0.009381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.849837 seconds.
+  path: Assets/TextMesh Pro/Resources/TMP Settings.asset
+  artifactKey: Guid(3f5b5dff67a942289a9defa416b206f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/TMP Settings.asset using Guid(3f5b5dff67a942289a9defa416b206f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b07415286e54e33da4c287878f5037c2') in 0.083292 seconds
+  Import took 0.089004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.356203 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be469ab850b9f8a1ac4c39931454480') in 0.362149 seconds
+  Import took 0.366124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 567.411471 seconds.
+  path: Assets/2D World Building/Characters/$Lanto169.png
+  artifactKey: Guid(fb477d9a8767041188fd6b4d009cab91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Characters/$Lanto169.png using Guid(fb477d9a8767041188fd6b4d009cab91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '076b0cf577611f0f35e601409c969548') in 0.372766 seconds
+  Import took 0.378918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 212.668884 seconds.
+  path: Assets/Scenes/OutsideHouse.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/OutsideHouse.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93ef0065c1493e53bd2a229f4c1b26a') in 0.002280 seconds
+  Import took 0.012759 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000861 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.427 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1857 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173.8 MB.
+System memory in use after: 173.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2398.
+Total: 4.113555 ms (FindLiveObjects: 0.282169 ms CreateObjectMapping: 0.185677 ms MarkObjects: 3.501421 ms  DeleteObjects: 0.141829 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 797.068424 seconds.
+  path: Assets/2D World Building/Characters/$Lanto169.png
+  artifactKey: Guid(fb477d9a8767041188fd6b4d009cab91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Characters/$Lanto169.png using Guid(fb477d9a8767041188fd6b4d009cab91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd575330f209b66ccd4e9168cc917c831') in 0.068240 seconds
+  Import took 0.073794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.686349 seconds.
+  path: Assets/2D World Building/Characters/$Lanto169.png
+  artifactKey: Guid(fb477d9a8767041188fd6b4d009cab91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Characters/$Lanto169.png using Guid(fb477d9a8767041188fd6b4d009cab91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff06c2c6cb4e088f8fa66201e486e2ad') in 0.087818 seconds
+  Import took 0.093753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 200.415567 seconds.
+  path: Assets/2D World Building/Characters/$Lanto169.png
+  artifactKey: Guid(fb477d9a8767041188fd6b4d009cab91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D World Building/Characters/$Lanto169.png using Guid(fb477d9a8767041188fd6b4d009cab91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bacb85703ccce8c15e9042be5db34c2') in 0.044983 seconds
+  Import took 0.051924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 215.913121 seconds.
+  path: Assets/Scripts/NPC.cs
+  artifactKey: Guid(4f79d5fbf56974d79baf05f56315e2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPC.cs using Guid(4f79d5fbf56974d79baf05f56315e2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8d6e54723c2a5f14c5557161b7709a0') in 0.002379 seconds
+  Import took 0.007708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003537 seconds.
+  path: Assets/Scripts/NPC.cs
+  artifactKey: Guid(4f79d5fbf56974d79baf05f56315e2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPC.cs using Guid(4f79d5fbf56974d79baf05f56315e2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8d6e54723c2a5f14c5557161b7709a0') in 0.001432 seconds
+  Import took 0.005537 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001064 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.402 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1858 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 174.3 MB.
+System memory in use after: 174.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2409.
+Total: 3.083230 ms (FindLiveObjects: 0.204474 ms CreateObjectMapping: 0.067963 ms MarkObjects: 2.640424 ms  DeleteObjects: 0.169064 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 167.196077 seconds.
+  path: Assets/Scripts/NPC.cs
+  artifactKey: Guid(4f79d5fbf56974d79baf05f56315e2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPC.cs using Guid(4f79d5fbf56974d79baf05f56315e2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b79c555df59288aa607841c43675c95a') in 0.006309 seconds
+  Import took 0.011717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.054831 seconds.
+  path: Assets/Scripts/NPC.cs
+  artifactKey: Guid(4f79d5fbf56974d79baf05f56315e2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPC.cs using Guid(4f79d5fbf56974d79baf05f56315e2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd56f9a234f73d6d2d50162b78bf86640') in 0.001708 seconds
+  Import took 0.006693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.966749 seconds.
+  path: Assets/Scripts/NPC.cs
+  artifactKey: Guid(4f79d5fbf56974d79baf05f56315e2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NPC.cs using Guid(4f79d5fbf56974d79baf05f56315e2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79e6e24d06e1dd491273f1337429d04e') in 0.002086 seconds
+  Import took 0.008553 seconds .
 

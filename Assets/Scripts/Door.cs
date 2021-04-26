@@ -5,19 +5,34 @@ using UnityEngine.SceneManagement;
 
 public class Door : MonoBehaviour
 {
+    public GameObject player;
+    Vector2 scarPos;
+    private int index;
+
+    void Start()
+    {
+	index = SceneManager.GetActiveScene().buildIndex;
+    }
+
     void OnTriggerEnter2D(Collider2D collision)
     {
 	Debug.Log(SceneManager.GetActiveScene().buildIndex == 0);
 	Debug.Log(SceneManager.GetActiveScene().buildIndex);
 
-	if(SceneManager.GetActiveScene().buildIndex == 0)
+	if(SceneManager.GetActiveScene().buildIndex == 1)
 	{
-	    SceneManager.LoadScene(1);
+	    scarPos = player.transform.position;
+	    scarPos.y = scarPos.y - 0.3f;
+	    PlayerData.pos = scarPos;
+	    SceneManager.LoadScene(index + 1);
 	}
 	else
 	{
-	    SceneManager.LoadScene(0);
+	    player.transform.position = PlayerData.pos;
+	    PlayerData.score = player.GetComponent<CharaScript>().score;
+	    Debug.Log(PlayerData.score);
 	    Debug.Log("Door");
+	    SceneManager.LoadScene(index - 1);
 	}
     }
 }
