@@ -8,7 +8,14 @@ public class UI : MonoBehaviour
 
     void Start()
     {
-	StartCoroutine("TurnOff");
+	if(PlayerData.score == 0)
+	{
+	    StartCoroutine("TurnOff");
+	}
+	else
+	{
+	    Instructions.SetActive(false);
+	}
     }
 
     IEnumerator TurnOff()
