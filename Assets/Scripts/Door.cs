@@ -22,7 +22,7 @@ public class Door : MonoBehaviour
 	if(SceneManager.GetActiveScene().buildIndex == 1)
 	{
 	    scarPos = player.transform.position;
-	    scarPos.y = scarPos.y - 2.0f;
+	    scarPos.y = scarPos.y - 1.0f;
 	    PlayerData.pos = scarPos;
 	    SceneManager.LoadScene(index + 1);
 	}

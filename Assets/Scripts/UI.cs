@@ -34,6 +34,8 @@ public class UI : MonoBehaviour
     public void leave()
     {
 	Instructions3.SetActive(true);
+	coroutine = TurnOff(Instructions3);
+	StartCoroutine(coroutine);
 	tilemap.SetActive(true);
     }
 
