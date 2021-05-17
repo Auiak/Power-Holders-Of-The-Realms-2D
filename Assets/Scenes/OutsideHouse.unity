@@ -202,8 +202,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -294.8135, y: 316.82944}
-  m_SizeDelta: {x: 782.303, y: 267.0579}
+  m_AnchoredPosition: {x: -304.0298, y: 405.67993}
+  m_SizeDelta: {x: 763.8605, y: 89.3567}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &183210699
 MonoBehaviour:
@@ -227,8 +227,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Click on the stranger.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
-  m_sharedMaterial: {fileID: -6315941605698601306, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
+  m_sharedMaterial: {fileID: 2572459420237531150, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -252,8 +252,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 100
-  m_fontSizeBase: 100
+  m_fontSize: 80
+  m_fontSizeBase: 80
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -291,7 +291,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &183210700
@@ -572,8 +572,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Quit
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
-  m_sharedMaterial: {fileID: -6315941605698601306, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
+  m_sharedMaterial: {fileID: 2572459420237531150, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -597,8 +597,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 200
-  m_fontSizeBase: 200
+  m_fontSize: 140
+  m_fontSizeBase: 140
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -694,7 +694,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 11
-  TMPFont: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  TMPFont: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!4 &507839441
@@ -727,7 +727,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 10
-  TMPFont: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  TMPFont: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &507839443
@@ -746,7 +746,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 9
-  TMPFont: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  TMPFont: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &507839444
@@ -765,7 +765,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 8
-  TMPFont: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  TMPFont: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &507839445
@@ -784,7 +784,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 2
-  TMPFont: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  TMPFont: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &507839446
@@ -803,7 +803,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 1
-  TMPFont: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  TMPFont: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &507839447
@@ -822,7 +822,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 16
-  TMPFont: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  TMPFont: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &507839448
@@ -841,7 +841,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 5
-  TMPFont: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  TMPFont: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &507839449
@@ -860,7 +860,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 4
-  TMPFont: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  TMPFont: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &507839450
@@ -879,7 +879,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 3
-  TMPFont: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  TMPFont: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &507839451
@@ -910,7 +910,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   NodeID: 17
-  TMPFont: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  TMPFont: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &507839452
@@ -929,7 +929,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 15
-  TMPFont: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  TMPFont: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &507839453
@@ -948,7 +948,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 14
-  TMPFont: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  TMPFont: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &507839454
@@ -967,7 +967,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   NodeID: 13
-  TMPFont: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  TMPFont: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!114 &507839455
@@ -998,7 +998,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   NodeID: 12
-  TMPFont: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  TMPFont: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   Icon: {fileID: 0}
   Audio: {fileID: 0}
 --- !u!1 &519420028
@@ -2323,8 +2323,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -294.8135, y: 316.82944}
-  m_SizeDelta: {x: 782.303, y: 267.0579}
+  m_AnchoredPosition: {x: -142.49817, y: 389.3605}
+  m_SizeDelta: {x: 1086.9336, y: 121.9957}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &714624495
 MonoBehaviour:
@@ -2348,8 +2348,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Leave the area through the path.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
-  m_sharedMaterial: {fileID: -6315941605698601306, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
+  m_sharedMaterial: {fileID: 2572459420237531150, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2373,8 +2373,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 100
-  m_fontSizeBase: 100
+  m_fontSize: 80
+  m_fontSizeBase: 80
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -6324,8 +6324,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -9.2865, y: 257}
-  m_SizeDelta: {x: 501.5782, y: 320.0066}
+  m_AnchoredPosition: {x: 0, y: 262.43982}
+  m_SizeDelta: {x: 628.5076, y: 309.1269}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1525476714
 MonoBehaviour:
@@ -6550,25 +6550,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentIDCounter: 18
-  json: '{"Options":[{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":3}],"EditorInfo":{"isRoot":false,"xPos":87,"yPos":-479},"ID":1,"ParamActions":[],"TMPFontGUID":null,"Text":"Uhh...
-    totally not stealing?","parentUIDs":[0],"SpeechUID":-1},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":4}],"EditorInfo":{"isRoot":false,"xPos":368,"yPos":-479},"ID":2,"ParamActions":[],"TMPFontGUID":null,"Text":"Um...
-    I live here.","parentUIDs":[0],"SpeechUID":-1},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":12}],"EditorInfo":{"isRoot":false,"xPos":97,"yPos":71},"ID":10,"ParamActions":[],"TMPFontGUID":null,"Text":"I
-    don''t know you.","parentUIDs":[9],"SpeechUID":-1},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":13}],"EditorInfo":{"isRoot":false,"xPos":357,"yPos":66},"ID":11,"ParamActions":[],"TMPFontGUID":null,"Text":"I
-    need to go now... nice talking to you?","parentUIDs":[9],"SpeechUID":-1},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":17}],"EditorInfo":{"isRoot":false,"xPos":363,"yPos":485},"ID":16,"ParamActions":[],"TMPFontGUID":null,"Text":"Um...
-    I don''t think I know you, sorry.","parentUIDs":[15],"SpeechUID":-1}],"Parameters":[],"SpeechNodes":[{"Connections":[{"__type":"EditableOptionConnection:#DialogueEditor","Conditions":[],"NodeUID":1},{"__type":"EditableOptionConnection:#DialogueEditor","Conditions":[],"NodeUID":2}],"EditorInfo":{"isRoot":true,"xPos":241.5,"yPos":-657},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"Um...
-    who are you?","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":5}],"EditorInfo":{"isRoot":false,"xPos":82,"yPos":-349},"ID":3,"ParamActions":[],"TMPFontGUID":null,"Text":"I
-    think i''ve seen you somewhere before? ","parentUIDs":[1],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":8}],"EditorInfo":{"isRoot":false,"xPos":359,"yPos":-346},"ID":4,"ParamActions":[],"TMPFontGUID":null,"Text":"Oh.
-    I must have forgotten... *incoherent mumbling*","parentUIDs":[2],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":8}],"EditorInfo":{"isRoot":false,"xPos":81,"yPos":-195},"ID":5,"ParamActions":[],"TMPFontGUID":null,"Text":"My
-    head hurts...","parentUIDs":[3],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":9}],"EditorInfo":{"isRoot":false,"xPos":353,"yPos":-155},"ID":8,"ParamActions":[],"TMPFontGUID":null,"Text":"Do
-    you know who I am?","parentUIDs":[4,5],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[{"__type":"EditableOptionConnection:#DialogueEditor","Conditions":[],"NodeUID":10},{"__type":"EditableOptionConnection:#DialogueEditor","Conditions":[],"NodeUID":11}],"EditorInfo":{"isRoot":false,"xPos":225,"yPos":-40},"ID":9,"ParamActions":[],"TMPFontGUID":null,"Text":"I
-    don''t remember anything...","parentUIDs":[8],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[],"EditorInfo":{"isRoot":false,"xPos":99,"yPos":146},"ID":12,"ParamActions":[],"TMPFontGUID":null,"Text":"Oh,
-    okay...","parentUIDs":[10],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":14}],"EditorInfo":{"isRoot":false,"xPos":356,"yPos":147},"ID":13,"ParamActions":[],"TMPFontGUID":null,"Text":"......","parentUIDs":[11],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":15}],"EditorInfo":{"isRoot":false,"xPos":361,"yPos":253},"ID":14,"ParamActions":[],"TMPFontGUID":null,"Text":"Wait-!!","parentUIDs":[13],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[{"__type":"EditableOptionConnection:#DialogueEditor","Conditions":[],"NodeUID":16}],"EditorInfo":{"isRoot":false,"xPos":360,"yPos":374},"ID":15,"ParamActions":[],"TMPFontGUID":null,"Text":"You
-    didn''t answer my question yet.","parentUIDs":[14],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[],"EditorInfo":{"isRoot":false,"xPos":363,"yPos":565},"ID":17,"ParamActions":[],"TMPFontGUID":null,"Text":"Oh...
+  json: '{"Options":[{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":3}],"EditorInfo":{"isRoot":false,"xPos":166,"yPos":253},"ID":1,"ParamActions":[],"TMPFontGUID":null,"Text":"Uhh...
+    totally not stealing?","parentUIDs":[0],"SpeechUID":-1},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":4}],"EditorInfo":{"isRoot":false,"xPos":447,"yPos":253},"ID":2,"ParamActions":[],"TMPFontGUID":null,"Text":"Um...
+    I live here.","parentUIDs":[0],"SpeechUID":-1},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":12}],"EditorInfo":{"isRoot":false,"xPos":176,"yPos":803},"ID":10,"ParamActions":[],"TMPFontGUID":null,"Text":"I
+    don''t know you.","parentUIDs":[9],"SpeechUID":-1},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":13}],"EditorInfo":{"isRoot":false,"xPos":436,"yPos":798},"ID":11,"ParamActions":[],"TMPFontGUID":null,"Text":"I
+    need to go now... nice talking to you?","parentUIDs":[9],"SpeechUID":-1},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":17}],"EditorInfo":{"isRoot":false,"xPos":441,"yPos":1218},"ID":16,"ParamActions":[],"TMPFontGUID":null,"Text":"Um...
+    I don''t think I know you, sorry.","parentUIDs":[15],"SpeechUID":-1}],"Parameters":[],"SpeechNodes":[{"Connections":[{"__type":"EditableOptionConnection:#DialogueEditor","Conditions":[],"NodeUID":1},{"__type":"EditableOptionConnection:#DialogueEditor","Conditions":[],"NodeUID":2}],"EditorInfo":{"isRoot":true,"xPos":320.5,"yPos":75},"ID":0,"ParamActions":[],"TMPFontGUID":null,"Text":"Um...
+    who are you?","parentUIDs":[],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":5}],"EditorInfo":{"isRoot":false,"xPos":160,"yPos":383},"ID":3,"ParamActions":[],"TMPFontGUID":null,"Text":"I
+    think i''ve seen you somewhere before? ","parentUIDs":[1],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":8}],"EditorInfo":{"isRoot":false,"xPos":438,"yPos":386},"ID":4,"ParamActions":[],"TMPFontGUID":null,"Text":"Oh.
+    I must have forgotten... *incoherent mumbling*","parentUIDs":[2],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":8}],"EditorInfo":{"isRoot":false,"xPos":160,"yPos":537},"ID":5,"ParamActions":[],"TMPFontGUID":null,"Text":"My
+    head hurts...","parentUIDs":[3],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":9}],"EditorInfo":{"isRoot":false,"xPos":432,"yPos":577},"ID":8,"ParamActions":[],"TMPFontGUID":null,"Text":"Do
+    you know who I am?","parentUIDs":[4,5],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[{"__type":"EditableOptionConnection:#DialogueEditor","Conditions":[],"NodeUID":10},{"__type":"EditableOptionConnection:#DialogueEditor","Conditions":[],"NodeUID":11}],"EditorInfo":{"isRoot":false,"xPos":304,"yPos":692},"ID":9,"ParamActions":[],"TMPFontGUID":null,"Text":"I
+    don''t remember anything...","parentUIDs":[8],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[],"EditorInfo":{"isRoot":false,"xPos":178,"yPos":878},"ID":12,"ParamActions":[],"TMPFontGUID":null,"Text":"Oh,
+    okay...","parentUIDs":[10],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":14}],"EditorInfo":{"isRoot":false,"xPos":435,"yPos":879},"ID":13,"ParamActions":[],"TMPFontGUID":null,"Text":"......","parentUIDs":[11],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[{"__type":"EditableSpeechConnection:#DialogueEditor","Conditions":[],"NodeUID":15}],"EditorInfo":{"isRoot":false,"xPos":440,"yPos":986},"ID":14,"ParamActions":[],"TMPFontGUID":null,"Text":"Wait-!!","parentUIDs":[13],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[{"__type":"EditableOptionConnection:#DialogueEditor","Conditions":[],"NodeUID":16}],"EditorInfo":{"isRoot":false,"xPos":439,"yPos":1106},"ID":15,"ParamActions":[],"TMPFontGUID":null,"Text":"You
+    didn''t answer my question yet.","parentUIDs":[14],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0},{"Connections":[],"EditorInfo":{"isRoot":false,"xPos":442,"yPos":1297},"ID":17,"ParamActions":[],"TMPFontGUID":null,"Text":"Oh...
     bye then...","parentUIDs":[16],"AdvanceDialogueAutomatically":false,"AudioGUID":null,"AutoAdvanceShouldDisplayOption":false,"IconGUID":null,"Name":"Carnelian","OptionUIDs":null,"SpeechUID":0,"TimeUntilAdvance":0,"Volume":0}]}'
   saveVersion: 110
   DefaultName: Carnelian
   DefaultSprite: {fileID: 0}
-  DefaultFont: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  DefaultFont: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   NodeSerializedDataList:
   - {fileID: 582370104}
   - {fileID: 507839450}
@@ -7960,8 +7960,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Resume
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
-  m_sharedMaterial: {fileID: -6315941605698601306, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
+  m_sharedMaterial: {fileID: 2572459420237531150, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -7985,8 +7985,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 200
-  m_fontSizeBase: 200
+  m_fontSize: 140
+  m_fontSizeBase: 140
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -8069,8 +8069,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -294.8135, y: 316.82944}
-  m_SizeDelta: {x: 782.303, y: 267.0579}
+  m_AnchoredPosition: {x: -240.41516, y: 334.9622}
+  m_SizeDelta: {x: 891.0996, y: 230.7924}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2107386224
 MonoBehaviour:
@@ -8094,8 +8094,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Go into the house and steal some money to spend.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
-  m_sharedMaterial: {fileID: -6315941605698601306, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
+  m_sharedMaterial: {fileID: 2572459420237531150, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -8119,8 +8119,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 100
-  m_fontSizeBase: 100
+  m_fontSize: 80
+  m_fontSizeBase: 80
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

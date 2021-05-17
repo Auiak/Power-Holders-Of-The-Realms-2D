@@ -651,8 +651,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 80.085}
-  m_SizeDelta: {x: 1393.185, y: 762.27}
+  m_AnchoredPosition: {x: 0.000022888, y: 103}
+  m_SizeDelta: {x: 1280.4316, y: 702.1124}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1080980687
 MonoBehaviour:
@@ -678,8 +678,8 @@ MonoBehaviour:
     about these characters and their story, you can go buy the books in book stores
     and Amazon. Bye!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
-  m_sharedMaterial: {fileID: -6315941605698601306, guid: 4a76cd7af120b42e3a7b270a57541889, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
+  m_sharedMaterial: {fileID: 2572459420237531150, guid: 9871110f798204dbcb46e8f7e4fbe2e3, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -703,8 +703,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 130
-  m_fontSizeBase: 130
+  m_fontSize: 95
+  m_fontSizeBase: 95
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
