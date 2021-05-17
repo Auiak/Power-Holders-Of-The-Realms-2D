@@ -6,6 +6,7 @@ public class GameManager : MonoBehaviour
 {
     public GameObject Carnelian;
     public GameObject Instructions;
+    public GameObject tm;
 
     void Start()
     {
@@ -13,6 +14,13 @@ public class GameManager : MonoBehaviour
 	{
 	    Carnelian.SetActive(true);
 	    Instructions.SetActive(true);
+	}
+
+	else
+	{
+	    Carnelian.SetActive(false);
+	    Instructions.SetActive(false);
+	    tm.SetActive(false);
 	}
     }
 }

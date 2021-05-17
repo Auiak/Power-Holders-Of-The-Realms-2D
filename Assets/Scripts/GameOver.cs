@@ -9,6 +9,11 @@ public class GameOver : MonoBehaviour
     public TextMeshProUGUI timeText;
     public static float timeLeft = 30f;
 
+    void Start()
+    {
+	timeLeft = 30f;
+    }
+
     void Update()
     {
         timeLeft = timeLeft - Time.deltaTime; 
