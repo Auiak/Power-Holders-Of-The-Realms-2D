@@ -1207,4 +1207,5 @@ ScriptsOnlyBuild:
   - Assets/Scenes/OutsideHouse.unity
   - Assets/Scenes/InsideHouse.unity
   - Assets/Scenes/EndGame.unity
-  playerPath: /Users/athena/Desktop/Power Holders Of The Realms.app
+  playerPath: /Users/athena/Desktop/Coding/Unity Projects/Big Project Files/Power
+    Holders Of The Realms.app
